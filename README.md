@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/598136988.svg)](https://zenodo.org/badge/latestdoi/598136988)
+
 # SPOI-AE
 
 Code and data for the SPOI-AE project. 
